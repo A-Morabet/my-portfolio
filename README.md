@@ -7,6 +7,6 @@ However throughout its development I maintained a firm posture that a stylized p
 
 Another example that can be considered as a quality of life feature as well as something stylish would be *the GIF sequence that plays to showcase a project when hovering over their picture for a bit*.
 
-**I hope you navigating through my Portfolio!**
+**I hope you enjoy navigating through my Portfolio!**
 
 
